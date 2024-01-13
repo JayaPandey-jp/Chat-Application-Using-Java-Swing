@@ -30,5 +30,10 @@ Follow these instructions to get the chat application up and running on your loc
 
 1. Clone the repository:
 
+##Screenshot
+
+![Screenshot (13)](https://github.com/JayaPandey-jp/Chat-Application-Using-Java-Swing/assets/127422073/b2b56563-5353-48ce-8d54-609ed94a2503)
+![Screenshot (14)](https://github.com/JayaPandey-jp/Chat-Application-Using-Java-Swing/assets/127422073/050519bd-691f-4d99-84ae-66be9425995e)
+
 
 
